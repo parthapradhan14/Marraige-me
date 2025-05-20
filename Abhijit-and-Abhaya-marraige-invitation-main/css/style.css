@@ -476,9 +476,9 @@ body {
 	height: auto;
 	background-color: #674ea7;
 	border-radius: 16px;
-	text-align: center;
+	text-align:center;
 	color: #fff;
-	padding: 8px;
+	padding: 10px;
 	margin-right: 8px;
 }
 
