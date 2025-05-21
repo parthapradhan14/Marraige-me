@@ -359,6 +359,10 @@ img {
 	height: auto;
 }
 
+.pic {
+	font-family: Arial, Helvetica, Sans-serif;
+}
+
 @media (max-width:900px) {
 	img {
 		max-width: 30%;
